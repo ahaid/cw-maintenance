@@ -1,0 +1,35 @@
+
+Terms and Conditions of use for Task Rocket.
+Last updated 01/01/2014
+
+IMPORTANT: THIS SOFTWARE IS NOT FREEWARE. PLEASE DO NOT DISTRIBUTE.
+
+The buyer/user may use this software for:
+Personal use
+Commercial use
+
+The buyer/user agrees that they will not:
+1) Copy, modify, distribute or resell this software.
+2) Attempt to re-brand this software.
+
+Support and Updates
+Purchasing this software gives the buyer/user access to unlimited updates at no charge.
+Support and updates to this software are at the developers discretion.
+It is the buyer/users responsibility to periodically check taskrocket.info for updates.
+
+Special Offers
+Any special offers or discount codes can only be redeemed at the time of purchase.
+
+Plug-ins & compatibility
+Task Rocket will work 'out of the box' when paired with the minimum system requirements.
+The Task Rocket software does not function like a typical Wordpress theme, and therefore no guarantee is made that all 3rd party Wordpress plug-ins will work as expected.
+
+Disclaimer
+Any loss of data, loss of productivity or other technical issues related to the operating of this software is the buyer/user responsibility.
+The buyer/user is responsible for establishing and/or sourcing their own hosting environment to use this software on (with Wordpress). Purchasing Task Rocket does not include hosting.
+The buyer/user is responsible for making sure their hosting environment meets the minimum requirements for running Task Rocket on Wordpress.
+The buyer/user is responsible for backing up their own data.
+
+Refunds
+Since this software is a non-tangible and irrevocable digital product, all purchases are final and not refundable.
+It is up to the buyer/user to be satisfied this software is suitable for them before purchase.

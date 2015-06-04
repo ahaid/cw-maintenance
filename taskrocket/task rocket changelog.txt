@@ -1,0 +1,191 @@
+
+
+	TASK ROCKET CHANGELOG
+
+v1.8.2 (8th May 2015)
+	Moved dashboard message to more prominent position.
+	Typo correction.
+	Minor bug fixes.
+	Minor presentation tweaks.
+
+
+v1.8.1 (15th April 2015)
+	Dedicated page for projects/tasks report.
+	Added option to show report link in the main nav to all project contributors.
+	Tasks can be sorted by due date.
+	Minor presentation tweaks.
+	Minor bug fixes.
+
+
+v1.8 (28th March 2015)
+	Option to show comment threads in right pane.
+	Added Chrome extension support.
+	Added option to disable email notifications.
+	Administrators can now delete/create projects from front-end when setting is disabled.
+	Administrators can now reassign tasks from front-end when setting is disabled.
+	Administrators see full project nav on front-end regardless of setting.
+	Task Name field is in focus when clicking 'New Task' button.
+	New Task page in admin shows attachments and improved presentation.
+	Improved comment thread presentation.
+	Comments, task info and attachments now stay visible when editing a task.
+	Fixed client page bug for certain server environments.
+    Fixed z-index issue for date picker on new task dialogue.
+	Swapped out deprecated function.
+	Misc bug fixes.
+	Presentation updates.
+
+
+v1.7.1 (2nd February 2015)
+	Improved mobile UI on project pages.
+
+
+v1.7 (24th January 2015)
+	Added option to only show the currents users projects in the main nav.
+	Added option to swap between new enhanced dashboard overview and original overview.
+	Added project mini chart into the main nav (visible everywhere except dashboard).
+	Added option to show/hide the mini chart.
+	Added new metric so users can see how much task load they carry across all projects.
+	Fixed bug where project name would still be immediately visible in nav after being deleted.
+	Fixed bug that would mess with the pages nav icon presentation on fresh install.
+	Fixed bug where users could still reassign tasks (from new task page) when admin option forbids it.
+	Improved dashboard information for when there are no tasks or projects.
+	Increased character allowance on project and task names to 100.
+	Improved project data UI.
+	Added character count to project description.
+	Added validation to the search field.
+	Updated admin dashboard widget UI.
+	Removed 'subscriber' role (this role is not used in Task Rocket).
+	UI tweaks.
+
+
+v1.6.7 (15th January 2015)
+	Fixed main nav presentation issue that affects very long project names.
+
+
+v1.6.6 (15th January 2015)
+	Fixed small presentation issue on custom nav when not using drop-down option.
+
+
+v1.6.5 (14th January 2015)
+	Added option to allow administrators to edit any task from front-end.
+	Added option to allow administrators to mark any task as complete from front-end.
+	Updated the main navigation presentation.
+	Extended cookie expiration to 10 years.
+	Small update to user account page (gravatar information).
+	Presentation update on project pages with all tasks completed.
+
+
+v1.6.4 (7th January 2015)
+	Fixed issue where the sort menu could go berzerker on mobile.
+
+
+v1.6.3 (4th January 2015)
+	Fixed botched Thickbox presentation issue.
+
+
+v1.6.2 (16th December 2014)
+	Basic task sorting (sort by tasks with comments, date added, date modified, task owner, random, task title, ascending or descending).
+	Retired admin option 'Show older tasks first'.
+	Suppressed ugly error when latest update info on dashboard is unreachable.
+
+
+v1.6.1 (16th December 2014)
+	Fixed issue where clients were being counted towards number of user licenses.
+
+
+v1.6 (12th December 2014)
+	Attachments viewed as thumbnails.
+	Move tasks into a different project from front-end.
+	Recent tasks can be marked complete from dashboard.
+	Project progress items on dashboard now link to respective project.
+	New role for clients, and dedicated clients overview dashboard.
+	Completed projects no longer show up on dashboard (to save screen real-estate).
+	Fixed jQuery conflict bug with Gravity Forms.
+	Suppressed error messages on missing media attachments.
+	Replaced deprecated wp_get_theme function.
+	Retired the original default theme.
+	Option to show link to users page in the main nav.
+	Removed option to display user list on the main dashboard.
+	Users list moved to a dedicated page.
+	Removed front-end support link.
+	Attach files to tasks in back-end.
+	Responsive overhaul.
+	Presentation tweaks.
+
+
+v1.5.3 (24th August 2014)
+	Fixed issue where new task dialogue was partially hidden on screens with low vertical real estate.
+	Fixed issue where 'New Task' was being added into the custom nav list by default.
+
+
+v1.5.2 (18th July 2014)
+	Fixed front-end issue where new task was being assigned to current user instead of assignee.
+	Fixed issue where selection input on new task page was not selecting current user by default.
+
+v1.5.1 (3rd July 2014)
+	Add and assign tasks from the front-end.
+	See who owned a task before (if) it was reassigned.
+	Improved admin dashboard widget.
+	Improved back-end options page presentation.
+	Admin dashboard widget now advises when there is a new version of Task Rocket available.
+	Option to have email notifications sent as plain text.
+	Option for administrator to display dashboard message.
+	Option to include your own custom style sheet.
+	Gravatar setting is now honoured everywhere on the front-end.
+	Maintenance button in admin to fix update issues.
+	Subtle presentation improvements.
+
+v1.5 (29th May 2014)
+	Fixed issue where form actions would open new tab in Firefox.
+	Fixed issue where default priority class was not being added to tasks when no priority is chosen.
+	Added a project progress line chart to dashboard.
+	Completely redesigned UI (Monolith).
+	Option to show/hide list of all users on the dashboard.
+	Option to show/hide tips on dashboard.
+	Option to show/hide the project progress line chart on the dashboard.
+	Option to show tasks in order of oldest to newest.
+	Added date-picker to tasks in admin.
+	Added web-app-capable views for Android and IOS.
+	Replaced deprecated functions.
+	Minor presentation tweaks.
+
+
+v1.4.1 (23rd Feb 2014)
+	Administrators can create custom pages.
+	Admin option to enable/disable comments on custom pages (settings).
+	Admin option to change custom pages nav to dropdown (settings).
+	Minor UI improvements.
+
+
+v1.4 (8th Feb 2014)
+	Comments can be made on tasks.
+	Option to enable/disable commenting (settings).
+	Emphasis on tasks owned by an administrator.
+	Add/change administrator display title (settings).
+	Fixed issue where user could accidentally undo another users completed task.
+	Presentation tweaks.
+
+
+v1.3 (17th Jan 2014)
+	Upload (attach) files to individual tasks from front-end.
+	Delete files from front end.
+	Admin option for allowing files to be attached to tasks.
+	Admin option to toggle opening files in new tab by default.
+	Admin option for displaying the task ID.
+	Organised admin options page.
+	Under the hood bug fixes.
+	Some small UI tweaks and fixes.
+	Minor text edits.
+
+
+V1.2 (4th Jan 2014)
+	Minor error corrections.
+	Typo fixes.
+
+
+V1.1 (26th Dec 2013)
+	Fixed XML bug.
+
+
+V1.0 (24th Dec 2013)
+	Initial release.
